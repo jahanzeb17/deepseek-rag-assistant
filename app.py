@@ -125,7 +125,7 @@ def create_conversation_chain(retriever):
     return chain
 
 def main():
-    st.title("RAG Chatbot using Groq")
+    st.title("DeepSeek RAG Chatbot")
     init_session_state()
 
     # Sidebar for file upload
