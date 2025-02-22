@@ -1,0 +1,11 @@
+streamlit==1.42.0
+langchain==0.3.18
+langchain-core==0.3.35
+langchain-groq==0.2.4
+langchain-google-genai==2.0.9
+langchain-community==0.3.17
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+chromadb==0.6.3
+faiss-cpu==1.10.0
+python-docx==1.1.2
