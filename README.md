@@ -9,11 +9,10 @@ The **DeepSeek RAG Chatbot** is an AI-powered chatbot that enables users to uplo
 
 ## **🛠️ Tech Stack**
 - **Model:** DeepSeek LLM  
-- **Frameworks:** LangChain, LlamaIndex, Streamlit  
-- **Backend:** FastAPI  
+- **Frameworks:** LangChain, Streamlit  
 - **Vector Database:** FAISS  
-- **Embeddings:** OpenAI Embeddings  
-- **Libraries:** PyMuPDF (for PDF parsing), NumPy, Pandas  
+- **Embeddings:** Google GenerativeAI Embeddings  
+- **Libraries:** PyPDF2,   
 
 ## **✨ Features**
 ✅ Upload multiple document formats (PDF, TXT, DOC, DOCX)  
@@ -39,7 +38,4 @@ The **DeepSeek RAG Chatbot** is an AI-powered chatbot that enables users to uplo
 ## **🚀 Usage**
 1. Upload a document  
 2. Ask a question related to the document  
-3. Get AI-generated answers based on document context  
-
-## **📜 License**
-This project is licensed under the **MIT License**.  
+3. Get AI-generated answers based on document context 
